@@ -13,6 +13,10 @@
 #
 #    You should have received a copy of the GNU General Public License
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+#    This script was based on "blendbat.pl" by Stefano (S68) Selleri
+#    which can be obtained at http://www.selleri.org/Blender/
+#
 ##########################################################################
 
 ##############################################################
